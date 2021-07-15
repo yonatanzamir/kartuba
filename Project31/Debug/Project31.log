@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Users\win 10\source\repos\Project31\Project31\main.cpp(34,22): warning C4244: 'initializing': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\win 10\source\repos\Project31\Project31\main.cpp(51,66): warning C4244: '=': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\win 10\source\repos\Project31\Project31\main.cpp(65,66): warning C4244: '=': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  Project31.vcxproj -> C:\Users\win 10\source\repos\Project31\Debug\Project31.exe
