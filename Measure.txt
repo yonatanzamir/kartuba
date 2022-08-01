@@ -1,0 +1,2 @@
+Time taken by function Long_Multiply is : 0.000007 sec
+Time taken by function Kartsuba is : 0.000007200 sec
